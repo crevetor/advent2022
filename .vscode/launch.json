@@ -8,9 +8,9 @@
             "type": "cppvsdbg",
             "request": "launch",
             "name": "run part2",
-            "program": "${workspaceFolder}\\day13\\target\\debug\\part1.exe",
+            "program": "${workspaceFolder}\\day14\\target\\debug\\part1.exe",
             "args": [".\\inputs\\example"],
-            "cwd": "${workspaceFolder}\\day13",
+            "cwd": "${workspaceFolder}\\day14",
             "sourceFileMap": {},
             "env": {
                 "RUST_BACKTRACE": "short",
